@@ -48,7 +48,7 @@ public:
         }
     }
 
-    // Check if graph is connected
+    
     if (count == V)
         cout << "The graph is connected";
     else
